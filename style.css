@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Hanalei+Fill&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Hanalei Fill', cursive;
+}
+
+body {
+    background-color: #1f4037;  /* fallback for old browsers */
+    background-color: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+    background-color: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.container span {
+    display: block;
+}
+
+.swamp-thing {
+    font-size: 90px;
+    letter-spacing: 5px;
+    color: green;
+    position: relative;
+    animation-duration: 5s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+}
