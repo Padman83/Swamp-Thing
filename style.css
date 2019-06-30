@@ -30,6 +30,6 @@ body {
     color: green;
     position: relative;
     animation-duration: 5s;
-    animation-delay: 1s;
+    animation-delay: 3s;
     animation-iteration-count: infinite;
 }
