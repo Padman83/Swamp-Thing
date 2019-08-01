@@ -1,3 +1,7 @@
 # Swamp-Thing Animated Text
 
-Written in html, css and Materialize css.
+## Inspired by DC Comic Character. 
+
+Swamp Thing is 1982 Superhero film written and directed by Wes Craven.
+
+Written in html, css and Materialize css framework.
