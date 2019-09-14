@@ -14,6 +14,6 @@ Swamp Thing is 1982 Superhero film written and directed by Wes Craven.
 
 ## Contact 
 
-Project Link: [https://github.com/Padman83/Swamp-Thing](https://github.com/Padman83/Swamp-Thing)
+Project Link: [https://github.com/Padman83/Swamp-Thing]
 
 
