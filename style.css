@@ -25,9 +25,9 @@ body {
 }
 
 .swamp-thing {
-    font-size: 120px;
+    font-size: 1250px;
     letter-spacing: 5px;
-    color: green;
+    color: yellowgreen;
     position: relative;
     animation-duration: 5s;
     animation-delay: 3s;
