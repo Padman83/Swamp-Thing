@@ -4,7 +4,7 @@
 ![screencapture-padman83-github-io-Swamp-Thing-2019-08-06-20_55_03](https://user-images.githubusercontent.com/45048950/62784319-d2057080-baf0-11e9-8e16-1824c477b4ea.png)
 
 
-## Inspired by DC Comic Character. 
+### Inspired by DC Comic Character. 
 
 Swamp Thing is 1982 Superhero film written and directed by Wes Craven.
 
@@ -23,7 +23,7 @@ Swamp Thing is 1982 Superhero film written and directed by Wes Craven.
 * [cdnjs] (https://cdnjs.com)
 * [Google Fonts] (https://fonts.google.com)
 
-## Contact 
+### Contact 
 
 Project Link: [https://github.com/Padman83/Swamp-Thing]
 
