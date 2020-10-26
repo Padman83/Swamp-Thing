@@ -7,17 +7,17 @@ Swamp Thing is 1982 Superhero film written and directed by Wes Craven.
 
 ## 🧰 System Requirements
 
-* Mac , Linux or Windows.
+* Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### Built With
+### 🛠️ Built with:
 
 * [Materialize] (https://materializecss.com)
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
 * [Google Fonts] (https://fonts.google.com)
 
-### Contact 
+### 🔗 Links:
 
 Project Link: [https://github.com/Padman83/Swamp-Thing]
 
